@@ -1,0 +1,20 @@
+{
+  "name": "master-kitchen-solution-website",
+  "version": "1.0.0",
+  "description": "A modern e-commerce style interface for MKS Food Service.",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "serve -c serve.json"
+  },
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.1",
+    "serve": "^14.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  }
+}
